@@ -5,4 +5,4 @@ Simple Platformer built around teleporting with bullet hell elements
 
 ## Download
 
-https://www.dropbox.com/s/r71xf1867hjgzgg/FUR%20Portfolio%20Ver%20Build.rar?dl=0
+https://www.dropbox.com/s/r71xf1867hjgzgg/FUR%20Portfolio%20Ver%20Build.rar?dl=1
